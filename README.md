@@ -1,6 +1,6 @@
 ## olá me chamo Breno👋
 
-Sou um programador iniciante focado em desenvolvimento front-end, com conhecimentos em HTML, CSS e JavaScript. Estou aprendendo a criar sites responsivos, interativos e visualmente atraentes, explorando também frameworks como Bootstrap e React. Meu objetivo é aprimorar minhas habilidades de codificação, praticar boas práticas de desenvolvimento e colaborar em projetos de código aberto. No meu GitHub, você encontrará projetos que mostram minha evolução, desde landing pages simples até pequenas aplicações interativas. Estou sempre em busca de novos desafios para crescer como desenvolvedor.
+Sou um programador iniciante focado em desenvolvimento front-end, com conhecimentos em HTML, CSS e JavaScript. Estou aprendendo a criar sites responsivos, interativos e visualmente atraentes, explorando também frameworks como Bootstrap e React. Meu objetivo é aprimorar minhas habilidades de codificação, ter boas práticas de desenvolvimento e colaborar em projetos de código aberto. No meu GitHub, você encontrará projetos que mostram minha evolução, desde landing pages simples até pequenas aplicações interativas. Estou sempre em busca de novos desafios para crescer como desenvolvedor.
 
 
 

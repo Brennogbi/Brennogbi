@@ -13,7 +13,7 @@ Sou um programador iniciante focado em desenvolvimento front-end, com conhecimen
 <p> 🤝 Atualmente estou disponível para uma nova
 oportunidade de emprego e para trabalhar como Freelancer.</p>
 
-<p> 🎓 Atualmente estudando Programação Fullstack no DevClub.</p>
+<p> 🎓 estudando Programação Fullstack no DevClub.</p>
 
 
 

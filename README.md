@@ -13,6 +13,7 @@ Sou um programador iniciante focado em desenvolvimento front-end, com conhecimen
 <p> 🤝 Atualmente estou disponível para uma nova
 oportunidade de emprego e para trabalhar como Freelancer.</p>
 
+<p> 🎓 Cursando Ciencia da Computação 1-8 uneb.</p>
 <p> 🎓 estudando Programação Fullstack no DevClub.</p>
 
 
